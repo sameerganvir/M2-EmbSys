@@ -1,3 +1,5 @@
+# **SOLAR TRACKING SYSTEM**
+
 # TABLE OF CONTENTS
 
 | Folder | Description |
