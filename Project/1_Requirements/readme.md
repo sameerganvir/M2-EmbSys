@@ -36,7 +36,7 @@ The position of the Sun with respect to the solar panel is not fixed due to the 
 
 # **Components Required**
 - Solar panel
-- ATmega328 Micro Controller
+- Arduino Uno
 - Light Dependent Resistor
 - Servo Motor
 - Resistor
