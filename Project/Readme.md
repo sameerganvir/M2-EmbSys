@@ -17,3 +17,6 @@
 
 ![Code quality](https://api.codiga.io/project/31722/score/svg)
 ![Code Grade](https://api.codiga.io/project/31722/status/svg)
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8c2579254a3d42538659bf68e0dbc522)](https://www.codacy.com/gh/sameerganvir/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sameerganvir/M2-EmbSys&amp;utm_campaign=Badge_Grade)
