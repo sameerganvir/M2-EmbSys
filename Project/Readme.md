@@ -16,3 +16,5 @@
 # cppcheck 
 [![cppcheck](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/cppcheck.yml)
 
+# Unit Testing
+[![Unit Testing](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/Unit%20testing.yml/badge.svg)](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/Unit%20testing.yml)
