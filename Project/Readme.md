@@ -18,3 +18,6 @@
 
 # Unit Testing
 [![Unit Testing](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/Unit%20testing.yml/badge.svg)](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/Unit%20testing.yml)
+
+# Valgrind
+[![Valgrind](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/Valgrind.yml)
