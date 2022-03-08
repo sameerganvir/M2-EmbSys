@@ -30,6 +30,7 @@ The position of the Sun with respect to the solar panel is not fixed due to the 
 # **Requirements**
 - High level requirements
   - Solar panel shall rotate according the sunlight detected by the LDRs.
+  - It should be sustainable.
   
 - Low level requirements
   - LDRs shall detect light.
