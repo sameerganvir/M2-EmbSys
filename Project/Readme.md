@@ -9,3 +9,10 @@
 | 5_Report | Documented Report |
 | 6_ImagesandVideos | Images and Video of Simulation |
 | 7_References | References |
+
+# Build
+[![Build](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/Build.yml/badge.svg)](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/Build.yml)
+
+# cppcheck 
+[![cppcheck](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sameerganvir/M2-EmbSys/actions/workflows/cppcheck.yml)
+
