@@ -17,13 +17,13 @@ The position of the Sun with respect to the solar panel is not fixed due to the 
 
 
 # **SWOT Analysis**
-- Strength
+- Strength:
   - More light will be absorbed by solar panel and more amount of power is generated. 
-- Opportunities
+- Opportunities:
   - Growing innovations in solar technology.
-- Weakness
+- Weakness:
   - Large dependency on sunny weather.
-- Threats
+- Threats:
   - Cumbersome maintenance and repair.
 
 
@@ -33,3 +33,12 @@ The position of the Sun with respect to the solar panel is not fixed due to the 
   
 - Low level requirements
   - LDRs shall detect light.
+
+# **Components Required**
+- Solar panel
+- ATmega328 Micro Controller
+- Light Dependent Resistor
+- Servo Motor
+- Resistor
+- Capacitor
+
