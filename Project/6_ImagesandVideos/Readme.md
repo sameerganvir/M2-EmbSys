@@ -2,7 +2,7 @@
 ![SolarTrackerCircuitDigram2](https://user-images.githubusercontent.com/42490038/157230495-43918218-8a30-42e8-9a0f-704b30ca7d3c.png)
 
 
-![SimulationVideo](https://user-images.githubusercontent.com/42490038/157230945-9efef215-85e2-48ff-9c6e-0becee493722.mp4)
+
 
 
 
